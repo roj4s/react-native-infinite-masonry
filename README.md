@@ -1,6 +1,6 @@
 # react-native-infinite-masonry
 
-React Native Masonry component with Infinite Scrolling. For a fully working example check [this repo](http://github.com/roj4s/react-native-masonry-gist). Also detailed explanations are presented in this [medium post](https://medium.com/@rojas_31524/react-native-masonry-with-infinite-scrolling-6104392f0ff4)
+React Native Masonry component with Infinite Scrolling. For a fully working example check [this repo](http://github.com/roj4s/react-native-masonry-gist). Also detailed explanations are presented in this [medium post](https://medium.com/@roj4s/react-native-masonry-with-infinite-scrolling-6104392f0ff4)
 
 ## Getting started
 
@@ -12,7 +12,7 @@ React Native Masonry component with Infinite Scrolling. For a fully working exam
 
 ## Usage
 
-For a fully working example check [this repo](http://github.com/roj4s/react-native-masonry-gist). Also a detailed explanation is presented in this [medium post](https://medium.com/@rojas_31524/react-native-masonry-with-infinite-scrolling-6104392f0ff4)
+For a fully working example check [this repo](http://github.com/roj4s/react-native-masonry-gist). Also a detailed explanation is presented in this [medium post](https://medium.com/@roj4s/react-native-masonry-with-infinite-scrolling-6104392f0ff4)
 
 ```javascript
 import Masonry from 'react-native-infinite-masonry';
