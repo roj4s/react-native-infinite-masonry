@@ -1,6 +1,6 @@
 {
   "name": "react-native-infinite-masonry",
-  "title": "React Native Masonry with Infinite Scrolling",
+  "description": "React Native Masonry with Infinite Scrolling",
   "version": "0.0.3",
   "main": "index.js",
   "files": [
